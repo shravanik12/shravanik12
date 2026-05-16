@@ -6,10 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=shravanik12&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/shravanik12?style=for-the-badge&color=ff69b4&labelColor=1a1b27" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/shravanik12?style=for-the-badge&color=ff69b4&labelColor=1a1b27" alt="Stars"/>
-
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanik12&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>

@@ -12,10 +12,6 @@
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=shravanik12&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<br><br>
-
 </div>
 
 # About Me

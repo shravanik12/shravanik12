@@ -1,25 +1,21 @@
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B;I'm+Sairaj+Moulasab+Nadaf;A+Full+Stack+%26+Web3+Developer;Passionate+about+Blockchain+%26+Innovation" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B;I'm+Shravani+Kulkarni;Passionate+about+Coding" alt="Typing SVG" />
   <br><br>
 
   <!-- Profile Views -->
-  <img 
-src="https://komarev.com/ghpvc/?username=Shravani&label=Profile%20Views&color=blueviolet&style=flat" 
-alt="Profile Views Counter" 
-/>
+  <img src="https://komarev.com/ghpvc/?username=Shravani&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter"/>
   <br><br>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SairajMN&theme=github" alt="GitHub Activity Graph" />
-
-  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravani&theme=github-dark"alt="Shravani GitHub Activity Graph"/>
+ <br><br>
 
   <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SairajMN&theme=dark&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=shravani&theme=dark&hide_border=true"
+alt="Shravani GitHub Streak" />
   <br><br>
-
+  
   <!-- Tech Stack -->
   <h3>🛠️ Tech Stack & Tools</h3>
   <p>

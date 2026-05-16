@@ -8,7 +8,7 @@
   <br><br>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanik12&theme=github-dark"alt="Shravani GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanik12&theme=tokyo-night" alt="Shravani GitHub Activity Graph"/>
  <br><br>
 
   <!-- GitHub Streak -->

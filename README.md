@@ -17,7 +17,6 @@
 <br><br>
 
 </div>
----
 
 # About Me
 
@@ -25,9 +24,7 @@
 
 ✨ Aspiring **Full Stack Developer** passionate about creating beautiful and responsive web applications.
 
-💻 Skilled in frontend and backend technologies with strong interest in modern UI/UX design.
-
-🚀 Currently learning advanced web technologies,improving problem-solving skills And acquiring new AI skills.
+    Currently learning advanced web technologies,improving problem-solving skills And acquiring new AI skills.
 
 🌱 Love exploring new tools, frameworks, and creative ideas.
 <br><br>
@@ -79,14 +76,14 @@
 **Tech Stack:** backend - PHP
                 frontend - HTML, CSS, JavaScript
 
----
+
 
 ## 🚌 Bus Ticket Booking System
 ✨ Ticket booking platform with authentication and seat booking system.
 
 **Tech Stack:** React, Node.js, MySQL
 
----
+
 
 ## 🎨 Art & Craft Blog Website
 ✨ Creative blog website for showcasing art and craft ideas, DIY projects, and handmade creations with an attractive responsive layout.
@@ -101,13 +98,11 @@
 **Sir M. Visvesvaraya Institute of Technology (SMVIT), Bangalore**  
 Currently Pursuing
 
----
 
 🎓 **Bachelor of Computer Applications (BCA)**  
-**Smt.Sharadamma V.Kotabal BBA, BCA And B.Com college,Koppal**  
+**Smt. Sharadamma V. Kotabal BBA, BCA And B.Com college, Koppal**  
 Focused on programming and web development concepts.
 
----
 ---
 
 # 📜 Certifications
@@ -131,9 +126,6 @@ Focused on programming and web development concepts.
 - Creative Designing
 
 ---
-
-# 💡 Quote
-
 <div align="center">
 
 ### ✨ "Code + Creativity = Beautiful Experiences"

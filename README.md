@@ -94,25 +94,21 @@
 
 # Featured Projects
 
+## 🎨 Art & Craft Blog Website
+ Creative blog website for showcasing art and craft ideas, DIY projects, and handmade creations with an attractive responsive layout.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ## 🛒 Online Shopping Website
  E-commerce platform with product listings, search, filtering, and cart functionality.
 
 **Tech Stack:** backend - PHP
                 frontend - HTML, CSS, JavaScript
 
-
-
 ## 🚌 Bus Ticket Booking System
  Ticket booking platform with authentication and seat booking system.
 
 **Tech Stack:** React, Node.js, MySQL
-
-
-
-## 🎨 Art & Craft Blog Website
- Creative blog website for showcasing art and craft ideas, DIY projects, and handmade creations with an attractive responsive layout.
-
-**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 

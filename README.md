@@ -20,8 +20,6 @@
 
 # About Me
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 ✨ Aspiring **Full Stack Developer** passionate about creating beautiful and responsive web applications.
 
 🚀 Currently learning advanced web technologies, improving problem-solving skills, and acquiring new AI skills.

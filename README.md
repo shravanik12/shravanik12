@@ -24,9 +24,10 @@
 
 ✨ Aspiring **Full Stack Developer** passionate about creating beautiful and responsive web applications.
 
-    Currently learning advanced web technologies,improving problem-solving skills And acquiring new AI skills.
+🚀 Currently learning advanced web technologies, improving problem-solving skills, and acquiring new AI skills.
 
 🌱 Love exploring new tools, frameworks, and creative ideas.
+
 <br><br>
 
 ---

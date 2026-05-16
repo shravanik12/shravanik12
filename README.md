@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B;I'm+Shravani+Kulkarni+koppal;A+Full+Stack+%26+Web3+Developer;Passionate+about+Blockchain+%26+Innovation" alt="Typing SVG" />
+ <img alt="Hey there! 👋 I'm Shravani | Full Stack Developer | Passionate about Web Development & Innovation"/>
 
   <br><br>
 

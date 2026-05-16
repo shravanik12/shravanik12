@@ -1,219 +1,169 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1500&color=FF69B4&center=true&vCenter=true&width=950&lines=Hey+there!+👋;I'm+Shravani+Kulkarni;Aspiring+Full+Stack+Developer;Passionate+about+Coding+%26+Creativity" alt="Typing SVG" />
-
-<br><br>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=shravanik12&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views Counter"/>
-
-<br><br>
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanik12&theme=tokyo-night" alt="Shravani GitHub Activity Graph"/>
-
-<br><br>
-
-<!-- GitHub Streak -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=shravanik12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br><br>
-
-<!-- Tech Stack -->
-<h3>🛠️ Tech Stack & Tools</h3>
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hey+There!+👋;I'm+Shravani+Kulkarni;Aspiring+Full+Stack+Developer;Passionate+about+Coding+%26+Creativity;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 
 <br>
 
-<!-- Connect -->
-<h3>🌐 Connect With Me</h3>
+<img src="https://komarev.com/ghpvc/?username=shravanik12&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 
-<p>
+<img src="https://img.shields.io/github/followers/shravanik12?style=for-the-badge&color=ff69b4&labelColor=1a1b27" alt="Followers"/>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+<img src="https://img.shields.io/github/stars/shravanik12?style=for-the-badge&color=ff69b4&labelColor=1a1b27" alt="Stars"/>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<br><br>
 
-<a href="https://github.com/shravanik12">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanik12&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 
-</p>
+<br><br>
 
-<br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=shravanik12&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
-<!-- About -->
-<h3>👩‍💻 About Me</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=shravanik12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
 
-<p align="center">
+<br><br>
 
-Aspiring Full Stack Developer passionate about building responsive, user-friendly, and modern web applications.<br>
-Skilled in HTML, CSS, JavaScript, React, Node.js, and MySQL with strong interest in UI/UX design and creative development.
-
-</p>
-
-<br>
-
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanik12&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-# 🌸 Shravani Kulkarni
+# 🌸 About Me
 
-### Full Stack Developer | Web Enthusiast
+<img align="right" alt="Coding Girl" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-📍 Karnataka, India  
-📧 yourmail@gmail.com  
-🔗 [GitHub](https://github.com/shravanik12) | [LinkedIn](https://www.linkedin.com/)
+✨ Aspiring **Full Stack Developer** passionate about creating beautiful and responsive web applications.
 
----
+💻 Skilled in frontend and backend technologies with strong interest in modern UI/UX design.
 
-# 👩‍💻 Professional Summary
+🚀 Currently learning advanced web technologies and improving problem-solving skills.
 
-Motivated and creative Full Stack Developer passionate about building scalable, responsive, and user-friendly web applications. Interested in frontend development, backend technologies, and modern UI design.
+🌱 Love exploring new tools, frameworks, and creative ideas.
 
-- Strong interest in web development and software engineering.
-- Passionate about learning modern technologies and frameworks.
-- Active GitHub learner with hands-on coding projects.
-- Good problem-solving and teamwork skills.
-- Interested in UI/UX design and creative web experiences.
+🎯 Goal: To become a professional software developer and contribute to impactful projects.
+
+<br><br>
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack & Tools
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-- Bootstrap
+<div align="center">
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- MySQL
+### 👩‍💻 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
 
-### Programming Languages
-- Python
-- Java
-- C
+### ⚛️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Chrome DevTools
+### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+
+</div>
 
 ---
 
-# 🎓 Education
+# 🌐 Connect With Me
 
-## Master of Computer Applications (MCA)
-Currently Pursuing
+<div align="center">
 
-## Bachelor of Computer Applications (BCA)
-Focused on programming, web development, and software engineering concepts.
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shravanik12">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ## 🌐 Portfolio Website
-**Tech:** HTML, CSS, JavaScript, React
+✨ Responsive personal portfolio website with modern UI and smooth design.
 
-- Designed a responsive personal portfolio website.
-- Added modern UI and smooth responsive layouts.
-- Showcases skills, projects, and achievements.
+**Tech Stack:** HTML, CSS, JavaScript, React
 
 ---
 
 ## 🛒 Online Shopping Website
-**Tech:** HTML, CSS, JavaScript
+✨ E-commerce platform with product listings, search, filtering, and cart functionality.
 
-- Developed an e-commerce website with product listings and cart functionality.
-- Added filtering and search features.
-- Improved user-friendly shopping experience.
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
 ## 🚌 Bus Ticket Booking System
-**Tech:** React, Node.js, MySQL
+✨ Ticket booking platform with authentication and seat booking system.
 
-- Created a ticket booking platform with login and seat booking features.
-- Implemented responsive frontend and backend integration.
-- Added booking management functionality.
+**Tech Stack:** React, Node.js, MySQL
+
+---
+
+# 📚 Education
+
+🎓 **Master of Computer Applications (MCA)**  
+Currently Pursuing
+
+🎓 **Bachelor of Computer Applications (BCA)**  
+Focused on programming and web development concepts.
 
 ---
 
 # 🏆 Achievements
 
-- Active GitHub learner and contributor.
-- Developed multiple responsive web applications.
-- Strong interest in modern frontend technologies.
-- Consistent learner and coding enthusiast.
+✨ Active GitHub learner and contributor  
+✨ Developed multiple responsive projects  
+✨ Passionate about UI/UX and creative development  
+✨ Continuous learner and coding enthusiast
 
 ---
 
 # 📜 Certifications
 
-- Web Development Certification
-- JavaScript Fundamentals
-- Python Programming Basics
-- Frontend Development Courses
+📌 Web Development Certification  
+📌 JavaScript Fundamentals  
+📌 Python Programming Basics  
+📌 Frontend Development Courses
 
 ---
 
 # 🌍 Languages & Interests
 
-### Languages
+### 🗣️ Languages
 - English
 - Kannada
 - Hindi
 
-### Interests
+### ❤️ Interests
 - Web Development
 - UI/UX Design
-- Coding
 - Open Source
-- Creative Designing
 - Photography
+- Creative Designing
 
 ---
 
-# 💡 Fun Fact
+# 💡 Quote
 
-✨ “Code + Creativity = Beautiful Experiences”
+<div align="center">
+
+### ✨ "Code + Creativity = Beautiful Experiences"
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+⭐ From [Shravani Kulkarni](https://github.com/shravanik12)
+
+</div>

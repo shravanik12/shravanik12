@@ -29,6 +29,31 @@
 <br><br>
 
 ---
+🛠️ Technical Skills
+
+## Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- CSS
+- Bootstrap
+
+## Backend
+- Node.js
+- Express.js
+- MySQL
+
+## Programming Languages
+- Python
+- Java
+- C
+
+## Tools & Platforms
+- Git & GitHub
+- VS Code
+
+---
 
 # Tech Stack & Tools
 

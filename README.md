@@ -1,11 +1,13 @@
 
 <div align="center">
-  <img src="font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B;I'm+Sairaj+Moulasab+Nadaf;A+Full+Stack+%26+Web3+Developer;Passionate+about+Blockchain+%26+Innovation" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B;I'm+Sairaj+Moulasab+Nadaf;A+Full+Stack+%26+Web3+Developer;Passionate+about+Blockchain+%26+Innovation" alt="Typing SVG" />
   <br><br>
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=SairajMN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
+  <img 
+src="https://komarev.com/ghpvc/?username=Shravani&label=Profile%20Views&color=blueviolet&style=flat" 
+alt="Profile Views Counter" 
+/>
   <br><br>
 
   <!-- GitHub Activity Graph -->

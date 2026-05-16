@@ -12,7 +12,7 @@
  <br><br>
 
   <!-- GitHub Streak -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=shravanik12&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=shravanik12&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <br><br>
 
   <!-- Tech Stack -->

@@ -4,18 +4,18 @@
   <br><br>
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Shravani&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=shravanik12&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter"/>
   <br><br>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravani&theme=github-dark"alt="Shravani GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanik12&theme=github-dark"alt="Shravani GitHub Activity Graph"/>
  <br><br>
 
   <!-- GitHub Streak -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=shravani&theme=dark&hide_border=true"
+<img src="https://nirzak-streak-stats.vercel.app/?user=shravanik12&theme=dark&hide_border=true"
 alt="Shravani GitHub Streak" />
   <br><br>
-  
+
   <!-- Tech Stack -->
   <h3>🛠️ Tech Stack & Tools</h3>
   <p>

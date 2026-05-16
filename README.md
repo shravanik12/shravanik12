@@ -32,7 +32,7 @@
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# Tech Stack & Tools
 
 <div align="center">
 
@@ -69,10 +69,10 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🛒 Online Shopping Website
-✨ E-commerce platform with product listings, search, filtering, and cart functionality.
+ E-commerce platform with product listings, search, filtering, and cart functionality.
 
 **Tech Stack:** backend - PHP
                 frontend - HTML, CSS, JavaScript
@@ -80,14 +80,14 @@
 
 
 ## 🚌 Bus Ticket Booking System
-✨ Ticket booking platform with authentication and seat booking system.
+ Ticket booking platform with authentication and seat booking system.
 
 **Tech Stack:** React, Node.js, MySQL
 
 
 
 ## 🎨 Art & Craft Blog Website
-✨ Creative blog website for showcasing art and craft ideas, DIY projects, and handmade creations with an attractive responsive layout.
+ Creative blog website for showcasing art and craft ideas, DIY projects, and handmade creations with an attractive responsive layout.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -108,12 +108,12 @@ Focused on programming and web development concepts.
 
 # 📜 Certifications
 
-📌 Mongodb Certificate  
-📌 Python Certiticates
+ Mongodb Certificate  
+ Python Certiticates
 
 ---
 
-# 🌍 Languages & Interests
+# Languages & Interests
 
 ### 🗣️ Languages
 - English

@@ -14,30 +14,22 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=shravanik12&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shravanik12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanik12&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-
 </div>
-
 ---
 
-# 🌸 About Me
+# About Me
 
-<img align="right" alt="Coding Girl" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ✨ Aspiring **Full Stack Developer** passionate about creating beautiful and responsive web applications.
 
 💻 Skilled in frontend and backend technologies with strong interest in modern UI/UX design.
 
-🚀 Currently learning advanced web technologies and improving problem-solving skills.
+🚀 Currently learning advanced web technologies,improving problem-solving skills And acquiring new AI skills.
 
 🌱 Love exploring new tools, frameworks, and creative ideas.
-
-🎯 Goal: To become a professional software developer and contribute to impactful projects.
-
 <br><br>
 
 ---
@@ -81,17 +73,11 @@
 
 # 🚀 Featured Projects
 
-## 🌐 Portfolio Website
-✨ Responsive personal portfolio website with modern UI and smooth design.
-
-**Tech Stack:** HTML, CSS, JavaScript, React
-
----
-
 ## 🛒 Online Shopping Website
 ✨ E-commerce platform with product listings, search, filtering, and cart functionality.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** backend - PHP
+                frontend - HTML, CSS, JavaScript
 
 ---
 
@@ -102,31 +88,32 @@
 
 ---
 
-# 📚 Education
+## 🎨 Art & Craft Blog Website
+✨ Creative blog website for showcasing art and craft ideas, DIY projects, and handmade creations with an attractive responsive layout.
 
-🎓 **Master of Computer Applications (MCA)**  
-Currently Pursuing
-
-🎓 **Bachelor of Computer Applications (BCA)**  
-Focused on programming and web development concepts.
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-# 🏆 Achievements
+# 📚 Education
 
-✨ Active GitHub learner and contributor  
-✨ Developed multiple responsive projects  
-✨ Passionate about UI/UX and creative development  
-✨ Continuous learner and coding enthusiast
+🎓 **Master of Computer Applications (MCA)**  
+**Sir M. Visvesvaraya Institute of Technology (SMVIT), Bangalore**  
+Currently Pursuing
 
+---
+
+🎓 **Bachelor of Computer Applications (BCA)**  
+**Smt.Sharadamma V.Kotabal BBA, BCA And B.Com college,Koppal**  
+Focused on programming and web development concepts.
+
+---
 ---
 
 # 📜 Certifications
 
-📌 Web Development Certification  
-📌 JavaScript Fundamentals  
-📌 Python Programming Basics  
-📌 Frontend Development Courses
+📌 Mongodb Certificate  
+📌 Python Certiticates
 
 ---
 
@@ -141,7 +128,6 @@ Focused on programming and web development concepts.
 - Web Development
 - UI/UX Design
 - Open Source
-- Photography
 - Creative Designing
 
 ---
@@ -157,9 +143,3 @@ Focused on programming and web development concepts.
 </div>
 
 ---
-
-<div align="center">
-
-⭐ From [Shravani Kulkarni](https://github.com/shravanik12)
-
-</div>

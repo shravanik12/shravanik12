@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=shravanik12&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=shravanik12&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
